@@ -2,7 +2,7 @@ Revisión de código de otros 4
 
 Instrucciones:
 
-Clona el proyecto de Github a tu computadora: https://gist.github.com/eduardojesus12/f271c36ea86bb0498df5d8b4ab6ab258Links to an external site. 
+Clona el proyecto de Github a tu computadora: https://gist.github.com/eduardojesus12/f271c36ea86bb0498df5d8b4ab6ab258 
 Analiza el proyecto, para entender su funcionamiento. Pon mucha atención, el código contiene algunos errores.
 El programa nos permite recrear el juego de piedras, papel o tijeras
 Datos de entrada:
