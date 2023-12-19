@@ -1,3 +1,13 @@
+// Hice que el código fuera una clase con métodos que le permiten leer si es piedra, papel o tijeras
+// lo que ponen cada jugador. La ejecución del código me parece habla por sí misma:
+//
+// test.preguntarSeleccion ("Jugador 1");
+// test.preguntarSeleccion ("Jugador 2");
+// test.mostrarResultado();
+//
+// Así que usa el mismo método para preguntar y leer qué selecciona cada jugador y una vez
+// asignadas sus respuestas a variables, hace la comparación de los resultados y da un resultado.
+
 package com.generation;
 
 // Importé el Scanner
